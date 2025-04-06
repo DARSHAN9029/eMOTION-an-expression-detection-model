@@ -1,7 +1,7 @@
 # 😊 Emotion Detection Model
 
 ## 📌 Overview
-This project is an Emotion Detection Model that analyzes input text and classifies the underlying emotion. It's useful in applications like chatbots, mental health monitoring systems, feedback analysis, and social media sentiment tracking.
+This project uses OpenCV and DeepFace to detect emotions in real-time via a webcam. It captures video, detects faces using Haar cascades, and analyzes emotions using DeepFace.
 
 **Predicted Emotions:**
 - Happy  
