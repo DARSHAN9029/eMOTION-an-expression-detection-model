@@ -12,7 +12,7 @@ This project uses OpenCV and DeepFace to detect emotions in real-time via a webc
 - Neutral  
 
 ## 🛠️ Tech Stack
-- Python 3.8+
+- Python 3.10
 - OpenCV (cv2)
 - TensorFlow / Keras or PyTorch
 - Haar Cascades / DNN for face detection
